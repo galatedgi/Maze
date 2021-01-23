@@ -6,9 +6,9 @@ The application uses threads, using design patterns and is based on BFS and DFS 
 
 Functionality:
 
-  *Start a game
+  # Start a game
 
-  *Save the game
+  # Save the game
 
   *Loading the game
 
