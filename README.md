@@ -9,8 +9,8 @@ Functionality:
   # Start a game
 
   # Save the game
-
-  *Loading the game
+ 
+  * Loading the game
 
   *Choosing the size of the maze
 
