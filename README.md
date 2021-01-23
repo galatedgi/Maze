@@ -6,16 +6,16 @@ The application uses threads, using design patterns and is based on BFS and DFS 
 
 Functionality:
 
--Start a game
+*Start a game
 
--Save the game
+*Save the game
 
--Loading the game
+*Loading the game
 
--Choosing the size of the maze
+*Choosing the size of the maze
 
--Showing the route leading to the goal
+*Showing the route leading to the goal
 
--Choosing an algorithm for finding the route to the goal
+*Choosing an algorithm for finding the route to the goal
 
 And more
