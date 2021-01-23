@@ -1,0 +1,56 @@
+2019.06.16 13:43:06.808 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 13:43:06.813 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 13:43:06.815 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 13:43:06.815 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 13:43:06.815 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:43:06.816 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:43:07.817 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:07.817 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:08.817 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:08.819 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:09.817 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:09.819 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:10.817 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:10.820 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:26.990 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 13:43:26.990 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 13:43:26.993 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 13:43:26.993 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 13:43:26.993 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:43:26.993 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:43:27.994 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:27.994 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:28.994 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:28.994 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:29.995 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:29.995 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:30.995 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:43:30.995 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:01.727 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 13:44:01.727 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 13:44:01.730 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 13:44:01.730 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 13:44:01.730 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:44:01.730 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:44:02.731 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:02.731 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:03.732 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:03.732 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:04.733 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:04.733 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:05.734 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:05.735 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:17.312 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 13:44:17.312 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 13:44:17.314 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 13:44:17.314 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 13:44:17.315 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:44:17.315 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 13:44:18.316 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:18.316 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:19.316 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:19.316 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:20.317 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:20.317 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:21.319 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 13:44:21.319 DEBUG Server.Server - Socket Timeout - No clients pending!
