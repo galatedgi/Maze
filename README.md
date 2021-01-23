@@ -2,7 +2,7 @@ The application was created by Gal Atedgi and Omer Reichstein.
 
 This application is a maze game implemented in Java.
 
-The application uses threads and is based on BFS and DFS search algorithms.
+The application uses threads, using design patterns and is based on BFS and DFS search algorithms.
 
 Functionality:
 
