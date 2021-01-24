@@ -14,7 +14,7 @@ Functionality:
 
   * Choosing the size of the maze
 
-  * Showing the route leading to the goal
+  * Teaching the paving the path
 
   * Choosing an algorithm for finding the route to the goal
 
